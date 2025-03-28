@@ -1,0 +1,9 @@
+Welcome to the CoRETEX inventory! Enter items in the form Name:Tag:Quantity
+single variable calculus:textbook:1
+digital design and computer architecture:textbook:1
+from inquiry to academic writing:textbook:2
+sauce pot:kitchen:4
+cutting board:kitchen:1
+1 cup measure:kitchen:1
+sheet pan:kitchen:1
+catan:game:1
